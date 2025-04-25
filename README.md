@@ -1,5 +1,10 @@
 <p align="center">
   <img src="public/aniteams-logo.png" alt="AniTeams Logo" width="200" />
+  <video width="320" height="240" controls>
+    <source src="https://meggdrive.xyz/wp-content/uploads/2025/04/Solo-Leveling-Season-2-Ep-13-dub.mp4" type="video/mp4">
+  </video>
+
+  Watch more [solo leveling](https://sololevelingseason3.org)
 </p>
 
 <h1 align="center">Solo Leveling Season 3 - Anime Streaming Website</h1>
