@@ -2,24 +2,18 @@
   <img src="public/aniteams-logo.png" alt="AniTeams Logo" width="200" />
 </p>
 
-<h1 align="center">AniTeams - Anime Streaming Website</h1>
+<h1 align="center">Solo Leveling Season 3 - Anime Streaming Website</h1>
 
-Welcome to AniTeams verison 2 ! A modern anime streaming platform built with Next.js 15 and Tailwind CSS, featuring AniList integration, anime bookmarking, skip intro/outro functionality, and more.
+Welcome to Solo Leveling Season 3 ! A modern anime streaming platform built with Next.js 15 and Tailwind CSS, featuring AniList integration, anime bookmarking, skip intro/outro functionality, and more.
 
-## Features
+## Features Solo Leveling Season 3
 
 - **AniList Integration**: Link your AniList account to view your saved anime .
 - **Bookmarking**: Save your favorite episodes (bookmarking is currently local and not linked to AniList yet).
 - **Skip Intro/Outro**: Skip anime intros and outros for a smoother experience.
-- **ArtPlayer**: still use our trusty old player   [Click here to view the source code of the player](https://github.com/anime-kun32/aniteams-player).
+- **Watch anime**: still use our trusty old player   [solo leveling season 3](https://sololevelingseason3.org).
 
-## Repositories Used
-
-   - [hianime-mapper](https://github.com/IrfanKhan66/hianime-mapper)- For episode data 
-   - [aniwatch-api](https://github.com/ghoshRitesh12/aniwatch-api) - For streaming source 
-   - [api.consumet.org](https://github.com/consumet/api.consumet.org) - For anime data 
-
-## Installation Steps
+## Installation Solo Leveling Season 3
 
 ### Prerequisites
 
@@ -33,7 +27,7 @@ git clone https://github.com/anime-kun32/AniTeams.git
 cd aniteams
 ```
 
-### 2. Install Dependencies
+### 2. Install Dependencies 
 
 Using Yarn:
 
@@ -85,4 +79,4 @@ App should now be running on `http://localhost:3000`.
 ### issues and contribution 
 As always any issues or contributions you want to make list them or make a pull request . 
 
-#  Enjoy using the app and Welcome to AniTeams-v2 !!
+#  Enjoy using the app and Welcome to Solo Leveling Season 3 !!
